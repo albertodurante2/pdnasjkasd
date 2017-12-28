@@ -11,7 +11,7 @@ import java.util.List;
  */
 public class AllStandardScriptTests {
 	/**
-         * 
+         *  public
          */
 	public static final String TESTSCRIPT_FILE_EXTENSION = "txt";
 
